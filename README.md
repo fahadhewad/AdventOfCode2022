@@ -1,4 +1,4 @@
-Welcome to my Advent of Code 2022 repository!
+# Welcome to my Advent of Code 2022 repository!
 
 Advent of Code is an annual event in which participants solve a series of coding challenges released daily from December 1st to December 25th. Each day's challenge consists of two parts, and each part builds on the skills and knowledge learned from previous challenges.
 
